@@ -3,6 +3,16 @@
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![issues](https://img.shields.io/github/issues/experiment-solutions/experiment-golang.svg?style=flat-square)](https://github.com/experiment-solutions/experiment-golang/issues)
 
+## Install
+
+- [GO Download](https://golang.org/dl/)
+
+## Usage
+
+```bash
+go run 00-hello.go
+```
+
 ## Contributing
 
 - Fork it!
