@@ -1,7 +1,7 @@
-# Experiments with Go
+# knowledge of Go
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/experiment-solutions/experiment-golang.svg?style=flat-square)](https://github.com/experiment-solutions/experiment-golang/issues)
+[![issues](https://img.shields.io/github/issues/knowledge-solutions/knowledge-golang.svg?style=flat-square)](https://github.com/knowledge-solutions/knowledge-golang/issues)
 
 ## Install
 
@@ -23,7 +23,7 @@ go run 00-hello.go
 
 ## Log
 
-Check [Releases](https://github.com/experiment-solutions/experiment-golang/releases) for detailed changelog.
+Check [Releases](https://github.com/knowledge-solutions/knowledge-golang/releases) for detailed changelog.
 
 ## License
 
