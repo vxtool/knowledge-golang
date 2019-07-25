@@ -1,7 +1,11 @@
 # knowledge of Go
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/knowledge-solutions/knowledge-golang.svg?style=flat-square)](https://github.com/knowledge-solutions/knowledge-golang/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/knowledge-golang.svg)](https://github.com/org-victorinox/knowledge-golang/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/knowledge-golang.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/knowledge-golang.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-golang.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-golang/total.svg)
 
 https://go-tour-br.appspot.com/flowcontrol/1
 
@@ -25,7 +29,7 @@ go run 00-hello.go
 
 ## Log
 
-Check [Releases](https://github.com/knowledge-solutions/knowledge-golang/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/knowledge-golang/releases) for detailed changelog.
 
 ## License
 
